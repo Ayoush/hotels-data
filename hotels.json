@@ -1,0 +1,670 @@
+[
+    {
+      "name": "Marriott",
+      "tags": [
+        "Marriott Bonvoy",
+        "Marriott",
+        "Marriott Vacation Club"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Marriott_Logo.svg"
+    },
+    {
+      "name": "Courtyard",
+      "tags": [
+        "Courtyard",
+        "Courtyard by Marriott"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Courtyard_by_Marriott_logo.svg"
+    },
+    {
+      "name": "Hilton",
+      "tags": [
+        "Hilton",
+        "Hilton Garden Inn",
+        "Homewood",
+        "Conrad",
+        "Doubletree",
+        "Embassy Suites",
+        "Hampton"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hilton_Worldwide_Logo.png"
+    },
+    {
+      "name": "IHG Hotels and Resorts",
+      "tags": [
+        "IHG Hotels and Resorts",
+        "Candlewood Suites",
+        "Crowne Plaza",
+        "Holiday Inn",
+        "InterContinental",
+        "Staybridge",
+        "InterContinental Hotels Group (IHG)",
+        "InterContinental Hotels Group",
+        "Hotel Indigo",
+        "Kimpton Hotels & Restaurants"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/IHG_Hotels_%26_Resorts#/media/File:IHG_Hotels_&_Resorts_logo.svg"
+    },
+    {
+      "name": "Hyatt",
+      "tags": [
+        "Hyatt"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Hyatt#/media/File:Hyatt_Logo.svg"
+    },
+    {
+      "name": "Accor Group",
+      "tags": [
+        "Accor Group",
+        "Accor Hotels",
+        "Sofitel",
+        "Pullman",
+        "Mgallery",
+        "Novotel",
+        "Mercure",
+        "Adagio",
+        "Ibis",
+        "All seasons",
+        "Thalassa sea & spa"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Accor#/media/File:Accor_logo.svg"
+    },
+    {
+      "name": "Radisson Hotel Group",
+      "tags": [
+        "Radisson",
+        "Radisson Blu",
+        "Radisson Hotel",
+        "Radisson Hotels",
+        "Radisson Group"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Radisson_Hotels#/media/File:Radisson_Hotels_logo.svg"
+    },
+    {
+      "name": "Wyndham Hotels & Resorts",
+      "tags": [
+        "Wyndham Hotels & Resorts",
+        "Wyndham Hotels",
+        "Wyndham",
+        "Wyndham Resorts",
+        "AmeriHost Inn",
+        "Days Inn",
+        "Howard Johnson",
+        "Knights Inn",
+        "Ramada",
+        "Super 8"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Wyndham_Hotels_%26_Resorts#/media/File:Wyndham_Hotels_&_Resorts_logo.svg"
+    },
+    {
+      "name": "Best Western Hotels & Resorts",
+      "tags": [
+        "Best Western",
+        "Best Western Hotels & Resorts",
+        "Best Western hotels",
+        "Best Western motels",
+        "Best Western inns"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Best_Western#/media/File:Best_Western_Hotels_&_Resorts_logo.svg"
+    },
+    {
+      "name": "Choice Hotels International",
+      "tags": [
+        "Choice Hotels",
+        "Choice Hotels International",
+        "Comfort Inn",
+        "Quality",
+        "Sleep In",
+        "Main Stay Suites",
+        "Econo Lodge",
+        "Rodeway Inn"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Choice_Hotels#/media/File:Choice_Hotels_logo.svg"
+    },
+    {
+      "name": "MGM Resorts",
+      "tags": [
+        "MGM Resorts",
+        "MGM Resorts International"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/MGM_Resorts_International#/media/File:MGM_Resorts_International_logo.svg"
+    },
+    {
+      "name": "Shangri-La",
+      "tags": [
+        "Shangri-La Hotels and Resorts",
+        "Shangri-La",
+        "Shangri-La Hotels",
+        "Shangri-La Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Shangri-La_Hotels_and_Resorts#/media/File:Shangri-La_Hotels_and_Resorts_logo.svg"
+    },
+    {
+      "name": "Omni Hotels & Resorts",
+      "tags": [
+        "Omni Hotels & Resorts",
+        "Omni Hotels",
+        "Omni Hotels and Resorts",
+        "Omni Hotels",
+        "Omni Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Omni_Hotels_%26_Resorts#/media/File:Omni_Hotels_logo.png"
+    },
+    {
+      "name": "Caesars Entertainment",
+      "tags": [
+        "Caesars",
+        "Caesars Hotels",
+        "Caesars Hotels and Resorts",
+        "Caesars Hotel",
+        "Caesars Entertainment",
+        "Caesars Casino",
+        "Harrah's Entertainment",
+        "Harrah"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Caesars_Entertainment#/media/File:Caesars_Entertainment_logo_2020.svg"
+    },
+    {
+      "name": "Meliá Hotels International",
+      "tags": [
+        "Meliá Hotels International",
+        "Melia Hotels International",
+        "Melia",
+        "Meliá Hotels",
+        "Melia International"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Meli%C3%A1_Hotels_International#/media/File:Meli%C3%A1_Hotels_International_logo.svg"
+    },
+    {
+      "name": "Preferred Hotels & Resorts",
+      "tags": [
+        "Preferred Hotels & Resorts",
+        "Preferred Hotels",
+        "Preferred",
+        "Preferred Hotels and Resorts"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Preferred_Hotels_%26_Resorts#/media/File:PreferredHotels.svg"
+    },
+    {
+      "name": "Global Hotel Alliance",
+      "tags": [
+        "Kempinski Hotels",
+        "Doyle Collection hotel",
+        "Pan Pacific",
+        "Global Hotel",
+        "Global Hotel Alliance"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Global_Hotel_Alliance#/media/File:GlobalHotelAllianceLogo.png"
+    },
+    {
+      "name": "The Parking Spot",
+      "tags": [
+        "The Parking Spot",
+        "Parking Spot"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/The_Parking_Spot#/media/File:The_Parking_Spot_Logo.jpg"
+    },
+    {
+      "name": "Stash Hotel",
+      "tags": [
+        "Stash",
+        "Stash Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Stash_Hotel_Rewards#/media/File:Stash_Hotel_Rewards_logo.png"
+    },
+    {
+      "name": "NH Hotel Group",
+      "tags": [
+        "NH Hotel",
+        "NH Hotel Group"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/NH_Hotel_Group#/media/File:NH_Hotel_Group_Logo.svg"
+    },
+    {
+      "name": "Small Luxury Hotels",
+      "tags": [
+        "Boutique Hotels & Resorts",
+        "Boutique Hotels and Resorts",
+        "Small Luxury Hotels"
+      ],
+      "logo": "https://logos-download.com/wp-content/uploads/2021/01/Small_Luxury_Hotels_of_the_World_Logo.svg"
+    },
+    {
+      "name": "Taj Hotels",
+      "tags": [
+        "Taj",
+        "Taj Hotels"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Taj_Hotels#/media/File:Taj_Hotels_logo.svg"
+    },
+    {
+      "name": "Drury Hotels",
+      "tags": [
+        "Drury Hotels",
+        "Drury Hotel",
+        "Drury"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Drury_Hotels#/media/File:Drury_Hotels_logo.svg"
+    },
+    {
+      "name": "Loews Hotels",
+      "tags": [
+        "Loews Hotels",
+        "Loews Hotel",
+        "Loews"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Loews_Hotels#/media/File:Lowes_Hotels_Logos.svg"
+    },
+    {
+      "name": "Scandic Hotels",
+      "tags": [
+        "Scandic Hotels",
+        "Scandic Hotel",
+        "Scandic"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Scandic_Hotels#/media/File:Scandic.svg"
+    },
+    {
+      "name": "VOILÀ Hotel",
+      "tags": [
+        "VOILÀ Hotels",
+        "VOILÀ Hotel",
+        "VOILA Hotels",
+        "VOILA Hotel",
+        "VOILA",
+        "VOILÀ"
+      ],
+      "logo": "https://www.voilahotel.mu/images/voila_hotel_bagatelle_mall_logo.svg"
+    },
+    {
+      "name": "Red Roof Inn",
+      "tags": [
+        "Red Roof Inn",
+        "Red Roof",
+        "Red Roof Inn Hotels",
+        "Red Roof Hotel",
+        "Red Roof Inn Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Red_Roof_Inn#/media/File:Red_Roof_logo.svg"
+    },
+    {
+      "name": "Millennium & Copthorne Hotels",
+      "tags": [
+        "Millennium & Copthorne Hotels",
+        "Millennium & Copthorne Hotel",
+        "Millennium & Copthorne",
+        "Millennium and Copthorne Hotels",
+        "Millennium and Copthorne Hotel",
+        "Millennium and Copthorne"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Millennium_%26_Copthorne_Hotels#/media/File:Millennium-Hotels-And-Resorts-Logo_With-Tagline-sq.jpg"
+    },
+    {
+      "name": "The Langham Hotels and Resorts",
+      "tags": [
+        "The Langham Hotels and Resorts",
+        "The Langham Hotels",
+        "The Langham"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Langham_Hospitality_Group#/media/File:LHG_EN_logo_BW.jpg"
+    },
+    {
+      "name": "The Leading Hotels of the World",
+      "tags": [
+        "The Leading Hotels of the World",
+        "LHW"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/The_Leading_Hotels_of_the_World#/media/File:The_Leading_Hotels_of_the_World_logo.svg"
+    },
+    {
+      "name": "Hilton Grand Vacations",
+      "tags": [
+        "Hilton Grand Vacations",
+        "Hilton Grand"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Hilton_Grand_Vacations#/media/File:Hilton_Grand_Vacations_logo.svg"
+    },
+    {
+      "name": "Hilton Hotels",
+      "tags": [
+        "Hilton Hotels"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Hilton_Worldwide#/media/File:Hilton_Worldwide_logo.svg"
+    },
+    {
+      "name": "Jumeirah",
+      "tags": [
+        "Jumeirah",
+        "Jumeirah (hotel chain)",
+        "Jumeirah Hotels",
+        "Jumeirah Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Jumeirah_(hotel_chain)#/media/File:JuLogo.png"
+    },
+    {
+      "name": "RIU Hotels & Resorts",
+      "tags": [
+        "RIU Hotels & Resorts",
+        "RIU Hotels",
+        "RIU",
+        "RIU Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/RIU_Hotels#/media/File:RIU_Hotels_logo.svg"
+    },
+    {
+      "name": "Rydges Hotels & Resorts",
+      "tags": [
+        "Rydges Hotels & Resorts",
+        "Rydges Hotel",
+        "Rydges Hotels",
+        "Rydges"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Rydges_Hotels_%26_Resorts#/media/File:Rydges_Hotels_&_Resorts_Logo.png"
+    },
+    {
+      "name": "Sonesta International Hotels Corporation",
+      "tags": [
+        "Sonesta International Hotels Corporation",
+        "Sonesta Hotels",
+        "Sonesta Hotel",
+        "Sonesta",
+        "Sonesta International Hotels",
+        "Sonesta Corporation",
+        "Sonesta International"
+      ],
+      "logo": "https://logovtor.com/wp-content/uploads/2021/08/sonesta-hotels-and-resorts-logo-vector.png"
+    },
+    {
+      "name": "Red Lion Hotels Corporation",
+      "tags": [
+        "Red Lion Hotels Corporation",
+        "Red Lion Hotels",
+        "Red Lion",
+        "Red Lion Hotel",
+        "Red Lion Corporation"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Red_Lion_Hotels_Corporation#/media/File:Red_Lion_Hotels_Corporation_logo.svg"
+    },
+    {
+      "name": "Coast Hotels & Resorts",
+      "tags": [
+        "Coast Hotels & Resorts",
+        "Coast Hotels"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Coast_Hotels#/media/File:Coast_Hotels_logo.png"
+    },
+    {
+      "name": "Cosmopolitan Hotels",
+      "tags": [
+        "Cosmopolitan Hotels",
+        "Cosmopolitan Hotel"
+      ],
+      "logo": "https://static.wixstatic.com/media/9b2d4b_bd8a70f3cbf144778899e9f4604cf9c8~mv2.jpg/v1/fill/w_344,h_232,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20design%206.jpg"
+    },
+    {
+      "name": "Trident Hotels",
+      "tags": [
+        "Trident Hotels",
+        "Trident Hotel"
+      ],
+      "logo": "https://www.tridenthotels.com/img/trident-logo.png"
+    },
+    {
+      "name": "JAL Hotels",
+      "tags": [
+        "JAL Hotels",
+        "JAL Hotel",
+        "Okura Nikko Hotel Management Co. Ltd.",
+        "Okura Nikko Hotel Management",
+        "Okura Nikko Hotels",
+        "Okura Nikko Hotel",
+        "Okura Hotels"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Okura_Hotels#/media/File:Okura_Hotels_and_Resorts_Logo.svg"
+    },
+    {
+      "name": "Thon Hotels",
+      "tags": [
+        "Thon Hotels",
+        "Thon Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Thon_Hotels#/media/File:Thon_Hotels_logo.svg"
+    },
+    {
+      "name": "Tablet Hotels",
+      "tags": [
+        "Tablet Hotels",
+        "Tablet Hotel"
+      ],
+      "logo": "https://d1sacvjbhsczdb.cloudfront.net/media/ecs/global/logos/th/th-logo-dark.svg"
+    },
+    {
+      "name": "Jurys Inn",
+      "tags": [
+        "Jurys Inn",
+        "Jurys",
+        "Jurys Inn Group Limited"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Jurys_Inn#/media/File:Jurys_Inn.png"
+    },
+    {
+      "name": "Frasers Hospitality",
+      "tags": [
+        "Frasers Hospitality",
+        "Frasers Hotels",
+        "Frasers",
+        "Frasers Hotel"
+      ],
+      "logo": "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/brand-logos/fraser_hospitality_logo.png"
+    },
+    {
+      "name": "Regal Hotels International",
+      "tags": [
+        "Regal Hotels International",
+        "Regal Hotels",
+        "Regal Hotel",
+        "Regal International",
+        "Regal"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Regal_Hotels_International#/media/File:RegalSymbol.svg"
+    },
+    {
+      "name": "Dorint hotels & resorts",
+      "tags": [
+        "Dorint hotel & resorts",
+        "Dorint hotels & resorts",
+        "Dorint hotels and resorts",
+        "Dorint hotels",
+        "Dorint hotel",
+        "Dorint hotel and resorts"
+      ],
+      "logo": "https://dorint.com/typo3conf/ext/lm_projects/Resources/Public/gfx/logo.svg"
+    },
+    {
+      "name": "elite hotels of sweden",
+      "tags": [
+        "Elite hotels of sweden"
+      ],
+      "logo": "https://elite.se/UI/Static/Images/Icons/elite.svg"
+    },
+    {
+      "name": "Southern Sun",
+      "tags": [
+        "Tsogo Sun",
+        "Southern Sun"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Tsogo_Sun_logo.png"
+    },
+    {
+      "name": "Southern Sun",
+      "tags": [
+        "Tsogo Sun",
+        "Southern Sun"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Tsogo_Sun_logo.png"
+    },
+    {
+      "name": "Rotana Hotels",
+      "tags": [
+        "Rotana Hotels",
+        "Rotana Hotel",
+        "Rayhaan",
+        "Arjaan",
+        "Centro",
+        "Residences Hotels etc.",
+        "Rotana"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Rotana_Hotels#/media/File:Rotana_Logo.png"
+    },
+    {
+      "name": "First Hotels",
+      "tags": [
+        "First hotels",
+        "First hotel"
+      ],
+      "logo": "https://www.firsthotels.com/UI/firsthotels-logo.svg"
+    },
+    {
+      "name": "Leonardo Hotel",
+      "tags": [
+        "Leonardo Hotels",
+        "Leonardo Hotel"
+      ],
+      "logo": "https://static.leonardo-hotels.com/assets/leonardo-new.svg"
+    },
+    {
+      "name": "Silver Cloud",
+      "tags": [
+        "Silver Cloud Hotels",
+        "Silver Cloud Hotel"
+      ],
+      "logo": "https://www.hotelsilvercloud.com/wp-content/themes/konstruct/assets/img/logo.png"
+    },
+    {
+      "name": "Splendia",
+      "tags": [
+        "Splendia Hotels",
+        "Splendia Hotel"
+      ],
+      "logo": "https://cdn.splendia.com/images/logo.svg"
+    },
+    {
+      "name": "Paradores",
+      "tags": [
+        "Paradores",
+        "Paradores de Turismo de España",
+        "Paradores de Turismo"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Paradores#/media/File:LogotipoParadores.svg"
+    },
+    {
+      "name": "Jin Jiang",
+      "tags": [
+        "Jin Jiang Group",
+        "Jin Jiang International Group",
+        "Jin Jiang",
+        "Jinjiang International",
+        "Jinjiang",
+        "Jinjiang Hotel",
+        "Jinjiang Hotels"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Jinjiang_Hotel#/media/File:Shanghai0612_Jinjiang2.JPG"
+    },
+    {
+      "name": "Dan Hotels",
+      "tags": [
+        "Dan Hotel",
+        "Dan Hotel"
+      ],
+      "logo": "https://www.danhotels.com/themes/danhotel/logo.png"
+    },
+    {
+      "name": "Prince Hotels",
+      "tags": [
+        "Prince Hotels",
+        "Prince Hotel",
+        "Prince Waikiki"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Prince_Hotels#/media/File:PrinceHotels_logo.svg"
+    },
+    {
+      "name": "Mont Calm Royal London House",
+      "tags": [
+        "Mont Calm Royal London House",
+        "The Montcalm and Shaftsbury",
+        "Mont Calm Royal",
+        "Mont Calm Royal London",
+        "Mont Calm Hotel",
+        "Mont Calm"
+      ],
+      "logo": "https://www.montcalmroyallondoncity.co.uk/images/the-montcalm-royal-london-house.png?ver=1.0"
+    },
+    {
+      "name": "H10 Hotels",
+      "tags": [
+        "H10 Hotels",
+        "H10 Hotel",
+        "H10"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/H10_Hotels#/media/File:H10_Hotels_(logo).jpg"
+    },
+    {
+      "name": "Club Quarters",
+      "tags": [
+        "Club Quarters Hotels",
+        "Club Quarters",
+        "Club Quarters Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Club_Quarters#/media/File:Club_Quarters_logo.svg"
+    },
+    {
+      "name": "Premier Inn",
+      "tags": [
+        "My Premier Inn Hotels",
+        "Premier Inn",
+        "Premier Inn Hotels",
+        "Premier Inn Hotel",
+        "Premier Inn Hotels",
+        "Premier Inn Hotel",
+        "Premier Hotels",
+        "Premier Hotel"
+      ],
+      "logo": "https://en.wikipedia.org/wiki/Premier_Inn#/media/File:Premier_Inn_logo.svg"
+    },
+    {
+      "name": "Campsites Yelloh Village",
+      "tags": [
+        "Campsites Yelloh Village",
+        "Yelloh Village"
+      ],
+      "logo": "https://img.yellohvillage.fr/bundles/yellohsitemarchand/images/yelloh_logo.svg"
+    },
+    {
+      "name": "Santos Hotels",
+      "tags": [
+        "Club Santos",
+        "Santos Hotels",
+        "Hotel Santos",
+        "Santos Hotel"
+      ],
+      "logo": "https://www.h-santos.es/wp-content/themes/hoteles_santos_2014/images/logo.png"
+    },
+    {
+      "name": "Future Inns",
+      "tags": [
+        "Future Inns",
+        "Future Inns Hotels",
+        "Future Inns Hotel"
+      ],
+      "logo": "https://www.futureinns.co.uk/assets/images/SITE/logo.png"
+    },
+    {
+      "name": "Gloria Hotels and Resorts",
+      "tags": [
+        "Gloria Hotels and Resorts",
+        "Gloria Hotels",
+        "Gloria"
+      ],
+      "logo": "https://www.gloria.com.tr/Content/Images/logos/logo.svg"
+    }
+  ]
